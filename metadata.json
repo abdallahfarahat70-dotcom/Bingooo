@@ -1,0 +1,8 @@
+{
+  "name": "Bing bong",
+  "description": "إدارة دورات البينج بونج - خروج المغلوب ودوري المجموعات مع براكيت تفاعلي وحساب تلقائي للنتائج",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
